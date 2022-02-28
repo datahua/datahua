@@ -3,20 +3,19 @@
 </p>
 
 <p align="center"> 
-	<img src="https://readme-typing-svg.herokuapp.com?font=Serif&color=%23116BF7&size=18&center=true&vCenter=true&width=600&lines=%E2%80%9Cest%C3%A1+lloviendo+en+Macondo.%E2%80%9D+" /> 
+	<img src="https://readme-typing-svg.herokuapp.com?font=Serif&color=%23116BF7&size=18&duration=6000&center=true&vCenter=true&width=600&height=18&lines=%E2%80%9Cest%C3%A1+lloviendo+en+Macondo.%E2%80%9D+" /> 
 </p>
 
-<h2>Tianze Hua</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=datahua&label=Profile%20views&color=0e75b6&style=flat" alt="datahua" /> </p>
+## Tianze Hua
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Actively look for 2022 Summer Intern/CO-OP opportunity.\
-🏆 &nbsp;I'm currently participating in [Competiton for Ubiquant Market Prediction](https://www.kaggle.com/c/ubiquant-market-prediction) on Kaggle, contact me through [telegram](https://t.me/sta257) if you want to team up.
-🎓 &nbsp;I'm on track for machine learning, and cloud Architecture. 
-📜 &nbsp;I'm currently working on geting the [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/), I plan to obtain the [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) by the end of 2022.
-✍️ &nbsp;I just build my [portfolio website](https://datahua.github.io/) along with the page, I plan to upload casual school works to github as a collection repo, meanwhile, selected works, personal entries will be put on my portfolio website.
-💬 &nbsp;Feel free to reach out to me for discussing career path of data analyst/data scientist/software engineer.
+🏆 &nbsp;I'm currently participating in [Competiton for Ubiquant Market Prediction](https://www.kaggle.com/c/ubiquant-market-prediction) on Kaggle, contact me through [telegram](https://t.me/sta257) if you want to team up.\
+🎓 &nbsp;I'm on track for machine learning, and cloud Architecture. \
+📜 &nbsp;I'm currently working on geting the [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/), I plan to obtain the [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) by the end of 2022.\
+✍️ &nbsp;I just build my [portfolio website](https://datahua.github.io/) along with the page, I plan to upload casual school works to github as a collection repo, meanwhile, selected works, personal entries will be put on my portfolio website.\
+💬 &nbsp;Feel free to reach out to me for discussing career path of data analyst/data scientist/software engineer.\
 📄 &nbsp;Welcome to view my [Résumé](https://datahua.github.io/images/Resume.pdf).
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -42,15 +41,6 @@
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -58,7 +48,6 @@
 <a href="https://www.linkedin.com/in/datahua/"><img src="https://img.shields.io/badge/-Tianze%20Hua-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tianzewillgetjob@gmail.com"><img src="https://img.shields.io/badge/-tianzewillgetjob@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://t.me/sta257"><img src="https://img.shields.io/badge/-@sta257-FFFFFF?style=flat&logo=telegram&logoColor=white"/></a>
+<p> <img src="https://komarev.com/ghpvc/?username=datahua&label=Profile%20views&color=0e75b6&style=flat" alt="datahua" /> </p>
 
 
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
