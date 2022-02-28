@@ -1,33 +1,64 @@
-<h1 align="center">Hi 👋, I'm Tianze Hua, currently a graduate student based on Boston, MA.</h1>
-<h3 align="center">Highly self-motivated, innovative problem-solver with solid background in statistics and mathematics, proficient in data science software.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=datahua&label=Profile%20views&color=0e75b6&style=flat" alt="datahua" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datahua" alt="datahua" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://datahua.github.io/](https://datahua.github.io/)
-
-- 📝 I regularly write articles on [https://datahua.github.io/](https://datahua.github.io/)
-
-- 📫 How to reach me **tianzewillgetjob@gmail.com**
-
-- 📄 Know about my experiences [https://datahua.github.io/images/Resume.pdf](https://datahua.github.io/images/Resume.pdf)
-
-- ⚡ Fun fact **I work out 6 times each week, I cook, I read and sometimes write. I love coding, and I will keep enhancing my coding skills to Software-Engineer level proficiency.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/datahua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="datahua" height="30" width="40" /></a>
+<p align="center"> 
+	<img src="https://i.pinimg.com/originals/9f/86/b4/9f86b47b419ab91250927b7fad7f08fd.gif" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center"> 
+	<img src="https://readme-typing-svg.herokuapp.com?font=Serif&color=%23116BF7&size=18&center=true&vCenter=true&width=600&lines=%E2%80%9Cest%C3%A1+lloviendo+en+Macondo.%E2%80%9D+" /> 
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hire me, I will buy you a coffee machine!"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hire me, I will buy you a coffee machine!" /></a></p><br><br>
+<h2>Tianze Hua</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=datahua&label=Profile%20views&color=0e75b6&style=flat" alt="datahua" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=datahua&show_icons=true&locale=en&layout=compact" alt="datahua" /></p>
+### 👨🏻‍💻 &nbsp;About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datahua&show_icons=true&locale=en" alt="datahua" /></p>
+💡 &nbsp;Actively look for 2022 Summer Intern/CO-OP opportunity.\
+🏆 &nbsp;I'm currently participating in [Competiton for Ubiquant Market Prediction](https://www.kaggle.com/c/ubiquant-market-prediction) on Kaggle, contact me through [telegram](https://t.me/sta257) if you want to team up.
+🎓 &nbsp;I'm on track for machine learning, and cloud Architecture. 
+📜 &nbsp;I'm currently working on geting the [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/), I plan to obtain the [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) by the end of 2022.
+✍️ &nbsp;I just build my [portfolio website](https://datahua.github.io/) along with the page, I plan to upload casual school works to github as a collection repo, meanwhile, selected works, personal entries will be put on my portfolio website.
+💬 &nbsp;Feel free to reach out to me for discussing career path of data analyst/data scientist/software engineer.
+📄 &nbsp;Welcome to view my [Résumé](https://datahua.github.io/images/Resume.pdf).
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datahua&" alt="datahua" /></p>
+### 🛠 &nbsp;Tech Stack
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
+![microsoft-excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau&logoColor=276DC3)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Markdown](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Jupyternotebook](https://img.shields.io/badge/-Jupyternotebook-05122A?style=flat&logo=jupyter)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![ATOM](https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://datahua.github.io/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/datahua/"><img src="https://img.shields.io/badge/-Tianze%20Hua-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:tianzewillgetjob@gmail.com"><img src="https://img.shields.io/badge/-tianzewillgetjob@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://t.me/sta257"><img src="https://img.shields.io/badge/-@sta257-FFFFFF?style=flat&logo=telegram&logoColor=white"/></a>
+
+
+-----
+Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
