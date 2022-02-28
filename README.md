@@ -3,7 +3,7 @@
 </p>
 
 <p align="center"> 
-	<img src="https://readme-typing-svg.herokuapp.com?font=Serif&color=%23116BF7&size=18&duration=6000&center=true&vCenter=true&width=600&height=18&lines=%E2%80%9Cest%C3%A1+lloviendo+en+Macondo.%E2%80%9D+" /> 
+	<img src="https://readme-typing-svg.herokuapp.com?font=Serif&color=%23116BF7&size=18&duration=6000&center=true&vCenter=true&width=600&height=30&lines=%E2%80%9Cest%C3%A1+lloviendo+en+Macondo.%E2%80%9D+" /> 
 </p>
 
 ## Tianze Hua
@@ -17,9 +17,11 @@
 ✍️ &nbsp;I just build my [portfolio website](https://datahua.github.io/) along with the page, I plan to upload casual school works to github as a collection repo, meanwhile, selected works, personal entries will be put on my portfolio website.\
 💬 &nbsp;Feel free to reach out to me for discussing career path of data analyst/data scientist/software engineer.\
 📄 &nbsp;Welcome to view my [Résumé](https://datahua.github.io/images/Resume.pdf).
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 ### 🛠 &nbsp;Tech Stack
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 ![microsoft-excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)
@@ -48,6 +50,6 @@
 <a href="https://www.linkedin.com/in/datahua/"><img src="https://img.shields.io/badge/-Tianze%20Hua-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tianzewillgetjob@gmail.com"><img src="https://img.shields.io/badge/-tianzewillgetjob@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://t.me/sta257"><img src="https://img.shields.io/badge/-@sta257-FFFFFF?style=flat&logo=telegram&logoColor=white"/></a>
-<p> <img src="https://komarev.com/ghpvc/?username=datahua&label=Profile%20views&color=0e75b6&style=flat" alt="datahua" /> </p>
+
 
 
