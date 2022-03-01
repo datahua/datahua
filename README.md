@@ -31,7 +31,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Markdown](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
+![bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -39,7 +39,6 @@
 ![Jupyternotebook](https://img.shields.io/badge/-Jupyternotebook-05122A?style=flat&logo=jupyter)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![ATOM](https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
 
 
