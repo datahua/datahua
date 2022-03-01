@@ -18,7 +18,8 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" 
+     height="200" align="right"/>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
@@ -42,11 +43,10 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://datahua.github.io/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/datahua/"><img src="https://img.shields.io/badge/-Tianze%20Hua-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tianzewillgetjob@gmail.com"><img src="https://img.shields.io/badge/-tianzewillgetjob@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://t.me/sta257"><img src="https://img.shields.io/badge/-@sta257-FFFFFF?style=flat&logo=telegram&logoColor=white"/></a>
-
-
+<a href="https://t.me/sta257"><img src="https://img.shields.io/badge/-Tianze-FFFFFF?style=flat&logo=telegram&logoColor=white"/></a>
+</p>
 
