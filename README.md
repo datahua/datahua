@@ -9,7 +9,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Actively look for 2022 Summer Intern/CO-OP opportunity.\
-🏆 &nbsp;I'm currently participating in [Competiton for Ubiquant Market Prediction](https://www.kaggle.com/c/ubiquant-market-prediction) on Kaggle, contact me via [telegram](https://t.me/sta257) for team or discussion.\
 🎓 &nbsp;I'm on track for machine learning, and cloud architecture. \
 📜 &nbsp;Currently working on geting the [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/), I plan to obtain the [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) by the end of 2022.\
 ✍️ &nbsp;I just build my [portfolio website](https://datahua.github.io/) along with the page, I plan to upload casual school works to github as a collection repo, meanwhile, selected works, personal entries will be put on my portfolio website.\
